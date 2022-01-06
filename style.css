@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+/* *****first part**** */
+
+.mission-headline{
+    display: flex;
+}
+.portfolio-img{
+    margin-right: 10%;
+    margin-top: 5%;
+}
+.caption-portfolio{
+    margin-left: 10%;
+}
+.mission_btn{
+    text-decoration: none;
+  background-color: #FF5959;
+    /* padding: 20px; */
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 5px;
+    height: 48px;
+    width: 172px;
+
+}
+
+/* *****first part close**** */
+
+/* 2nd part start */
+.aim_for_mission{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.mission_pupose{
+    box-shadow: 10px 10px 40px #fbfcfc;
+   background-color: #4F9DA6;
+        border-radius: 10px;
+        height: 360px;
+        width: 376px;
+        margin-left: 10px;
+}
+.mission_pupose2{
+    box-shadow: 10px 10px 40px #fbfcfc;
+   background-color: #FF5959;
+        border-radius: 10px;
+        height: 360px;
+        width: 376px;
+        margin-left: 10px;
+}
+.mission_pupose3{
+    box-shadow: 10px 10px 40px #fbfcfc;
+   background-color: #FFF4D6;
+        border-radius: 10px;
+        height: 360px;
+        width: 376px;
+        margin-left: 10px;
+}
+
+
+
+/* ***3rd part */
+
+.devlop_limits{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+.global_connection{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+.corona_app{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+
+
+
+
+/* beforelast part */
+
+.roadmap_2022{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+.roadmap_box{
+    box-shadow: 10px 10px 40px #fbfcfc;
+    background-color: #4F9DA6;
+         border-radius: 10px;
+         height: 
+         150px;
+         width: 400px;
+         margin-left: 10%;
+         padding: 10px;
+
+}
+
+
+/* last_section */
+.footer_section{
+    background-color: #0B0D17;
+    font-family: 'Moon Dance', cursive;
+    }
