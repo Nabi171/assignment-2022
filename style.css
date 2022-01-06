@@ -96,8 +96,19 @@ body{
 
 
 .roadmap_box{
-    box-shadow: 10px 10px 40px #fbfcfc;
+    box-shadow: 10px 10px 40px #d1d8d8;
     background-color: #4F9DA6;
+         border-radius: 10px;
+         height: 
+         150px;
+         width: 400px;
+         margin-left: 10%;
+         padding: 10px;
+
+}
+.roadmap_box2{
+    box-shadow: 10px 10px 40px #d1d8d8;
+    background-color: #FF5959;
          border-radius: 10px;
          height: 
          150px;
